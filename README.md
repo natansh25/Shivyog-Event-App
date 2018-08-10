@@ -20,3 +20,12 @@ With the app, you can:
 - Stay up to date with latest updates
 
 - Register for an event
+
+
+
+#
+
+
+[Google Certified Associate Android Developer Digital Badge](https://www.credential.net/txa6s9vc)
+
+[Udacity Android Developer Nanodegree Certificate](https://confirm.udacity.com/JDMTWDA5)

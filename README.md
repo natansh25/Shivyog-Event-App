@@ -1,7 +1,6 @@
 # Shivyog-Event-App
 
-This app makes goal setting and sharing a fun loving task.
-
+This app helps you to discover all the Shivyog events in one place
 [![](https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/en_get.svg)](https://play.google.com/store/apps/details?id=infinity1087.android.shivyogapp.events) 
 
 just set your life goals, visualize them daily to create a neuropathway and after you have successfully achieved your goals share them with everyone.
